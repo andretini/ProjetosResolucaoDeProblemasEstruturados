@@ -2,5 +2,5 @@
 
 ## Equipe:
 
-André Alija Ramos Agostini
-Rafael Galafassi
+-André Alija Ramos Agostini
+-Rafael Galafassi
